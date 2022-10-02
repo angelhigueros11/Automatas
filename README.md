@@ -5,4 +5,4 @@
 
 ### Instrucciones:
 
-El programa corre al ejecutar el comando ``` python main.py "(0+1)**01*0"  ``` La regexp puede ser modificada
+El programa corre al ejecutar el comando ``` python main.py "(0+1)**01*0"  ```.  La regexp puede ser modificada
